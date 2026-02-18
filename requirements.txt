@@ -1,0 +1,17 @@
+# Core Framework
+streamlit
+
+# UI Components & Navigation
+streamlit-option-menu
+
+# Voice & Audio Processing
+streamlit-mic-recorder
+
+# AI & Data Processing
+pandas
+numpy
+scikit-learn
+
+# API Requests (If using external AI like OpenAI/Gemini)
+requests
+python-dotenv
